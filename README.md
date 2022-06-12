@@ -8,11 +8,11 @@
 💙💚💛💜 Apaixonada por tecnologia e em busca de novos desafios.
 <br><br>
 
-<div align="center">
+
   <a href="https://github.com/rpatricia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpatricia&show_icons=true&&include_all_commits=true&count_private=true&theme=radical"/><br><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpatricia&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=rpatricia&show_icons=true&&include_all_commits=true&count_private=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpatricia&layout=compact&langs_count=7&theme=radical"/>
+
 
 <h3 align="left"> Contribuidores fake: </h3>
 
