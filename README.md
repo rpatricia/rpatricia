@@ -1,8 +1,8 @@
 <img align="left" alt="Imagem" height="100" style="border-radius:8px;" src="image/renatapausini-avatar05.jpg">
 
-### 🗒 Oiii Eu sou a Renata Patrícia Pausini.<br>Estudante de Tecnologia.
+### 📚 Oiii Eu sou a Renata Patrícia Pausini.<br>Estudante de Tecnologia.
 
-📔 Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
+🚀 Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
 💻 Estou no programa Desenvolve 2022 do Grupo Boticário / Alura.
 💙💚💛💜💜 Apaixonada por tecnologia e em busca de novos desafios.
 
