@@ -31,7 +31,7 @@
 <img height="30" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=whit"/>
 
 <img align="right" alt="Imagem" height="250" style="border-radius:8px;" src="image/renatapausini-avatar05.png">
 </p>
