@@ -24,17 +24,31 @@
 
 #
 
-<h3 align="left"><b> Linguagens e ferramentas:</h3></b>
+<h3 align="left"><b>Linguagens:</h3></b>
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/html%20-%23DD0031.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/netlify-%237D4698.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+
+<img align="right" alt="Imagem" height="250" style="border-radius:8px;" src="image/renatapausini-avatar05.png">
+</p>
+
+
+<h3 align="left"><b>Ferramentas:</h3></b>
+<p align="left">
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+<img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white">
 <img height="30" src="https://img.shields.io/badge/github-%23114C82.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/git-%23E44C30.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/markdown-%2339457E.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
-<img align="right" alt="Imagem" height="250" style="border-radius:8px;" src="image/renatapausini-avatar05.png">
-</p>
+<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<!-- <img align="right" alt="Imagem" height="250" style="border-radius:8px;" src="image/renatapausini-avatar05.png"> -->
 
 
 
@@ -45,7 +59,6 @@
  </p>
 
  
-
 <h3 align="left"><b> 
 Visualizaçõe:</h3></b>
  <p align="left"><img alingn="center" src="https://profile-counter.glitch.me/rpatricia/count.svg" /></p>
