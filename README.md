@@ -3,7 +3,7 @@
 # :rocket: Oiii Eu sou a Renata Patrícia Pausini.<br>Estudante de Tecnologia.
 
 :books: Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
-💻 Estou no programa Desenvolve 2022 do Grupo Boticário / Alura.
+💻 
 💙💚💛💜 Apaixonada por tecnologia e em busca de novos desafios.
 
 #
