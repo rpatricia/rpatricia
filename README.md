@@ -1,6 +1,6 @@
 <img align="left" alt="Imagem" height="100" style="border-radius:8px;" src="image/renatapausini-avatar05.jpg">
 
-# :rocket: Oiii Eu sou a Renata Patrícia Pausini.<br>Estudante de Tecnologia.
+# :rocket: Oiii Eu sou a Renata Patrícia Pausini.
 
 :books: Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
 💻 
