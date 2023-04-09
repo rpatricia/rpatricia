@@ -1,4 +1,4 @@
-<img align="left" alt="Imagem" height="100" style="border-radius:8px;" src="image/renatapausini-avatar05.jpg">
+<img align="left" alt="Imagem" height="100" style="border-radius:8px;" src="image/renata-avatar06.jpg">
 
 # :rocket: Oiii Eu sou a Renata Patrícia Pausini.
 
@@ -33,8 +33,8 @@
 <img height="30" src="https://img.shields.io/badge/nodejs%20-%236da55f.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img height="30" src="https://img.shields.io/badge/reactjs%20-%2314354c.svg?&style=for-the-badge&logo=react&logoColor=whit"/>
 
-<img align="right" alt="Imagem" height="250" style="border-radius:8px;" src="image/renatapausini-avatar05.png">
-</p>
+<!-- <img align="right" alt="Imagem" height="250" style="border-radius:8px;" src="image/renatapausini-avatar05.png">
+</p> -->
 
 
 <h3 align="left"><b>Ferramentas:</h3></b>
