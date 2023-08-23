@@ -1,4 +1,4 @@
-<img align="left" alt="Imagem" height="100" style="border-radius:12px;" src="image/renata-avatar06.jpg">
+<img align="left" alt="Imagem" height="100" style="border-radius:12px;" src="image/avatar-renata.png">
 
 # :rocket: Oiii Eu sou a Renata Patrícia Pausini.
 
