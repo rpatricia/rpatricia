@@ -110,8 +110,8 @@
 <h3 align="left"><b> Social:</h3></b>
 <p align="left">
   <a href="https://www.linkedin.com/in/renata-pausini/" target="_blank"><img alt="Link para LinkedIn"  height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/renatapatriciadig" target="_blank"><img alt="Link para e-mail"  height="30" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </p>
+  <!-- <a href="https://www.instagram.com/renatapatriciadig" target="_blank"><img alt="Link para e-mail"  height="30" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ </p> -->
 
  
 <h3 align="left"><b> 
