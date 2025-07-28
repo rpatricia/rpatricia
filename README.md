@@ -2,7 +2,7 @@
 
  :rocket: <h1> Oiii Eu sou a Renata Patrícia Pausini.</h1>
 
-:books: Sou estudante de Análise e Desenvolvimento de Sistemas.<br>
+:books: Sou Formada Em Análise e Desenvolvimento de Sistemas.<br>
 💻 
 💙💚💛💜 Apaixonada por tecnologia e em busca de novos desafios.
 
@@ -45,6 +45,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="logo-mysql" style="max-width=100%"></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="52" height="40" alt="logo-wordpress" style="max-width=100%"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="40" alt="logo-" style="max-width=100%"></a>
 
 ##
 
@@ -81,11 +82,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="logo-github"></a> -->
 
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" target="_blank" rel="noopener noreferrer nofollow">
+<!--<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" target="_blank" rel="noopener noreferrer nofollow">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="40" alt="figma"></a>
 
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" target="_blank" rel="noopener noreferrer nofollow">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="52" height="40" alt="logo-codepen"></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="52" height="40" alt="logo-codepen"></a> -->
 
 
 
@@ -110,13 +111,14 @@
 <h3 align="left"><b> Social:</h3></b>
 <p align="left">
   <a href="https://www.linkedin.com/in/renata-pausini/" target="_blank"><img alt="Link para LinkedIn"  height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   <!-- <a href="https://www.instagram.com/renatapatriciadig" target="_blank"><img alt="Link para e-mail"  height="30" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </p> -->
 
  
 <h3 align="left"><b> 
-Visualizaçõe:</h3></b>
- <p align="left"><img alingn="center" src="https://profile-counter.glitch.me/rpatricia/count.svg" /></p>
+Visualizaçõe:</h3></b> 
+ <p align="left"><img alingn="center" src="" /></p>
 
  ### 🚀 Atividades
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rpatricia&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
