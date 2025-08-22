@@ -116,9 +116,9 @@
  </p> -->
 
  
-<h3 align="left"><b> 
-Visualizaçõe:</h3></b> 
- <p align="left"><img alingn="center" src="" /></p>
+<!--<h3 align="left"><b> 
+Visualizações:</h3></b> 
+ <p align="left"><img alingn="center" src="" /></p>-->
 
  ### 🚀 Atividades
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rpatricia&theme=tokyo-night&line=628fdb&point=a8d1b6&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
